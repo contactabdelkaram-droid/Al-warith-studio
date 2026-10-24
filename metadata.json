@@ -1,0 +1,6 @@
+{
+  "name": "الوارث | AL WARITH - Voice Studio",
+  "description": "استوديو احترافي لإنتاج التعليق الصوتي الدرامي للرواية المسموعة 'الوارث' بالدارجة المغربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
